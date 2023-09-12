@@ -1,0 +1,18 @@
+INFO:root:Application Started
+INFO:root:Working directory: /root/.visdom
+INFO:tornado.access:200 POST /env/main (127.0.0.1) 1.81ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.57ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.73ms
+INFO:root:Application Started
+INFO:root:Working directory: /root/.visdom
+INFO:tornado.access:200 POST /env/main (127.0.0.1) 1.00ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.77ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 1.53ms
+INFO:root:Application Started
+INFO:root:Working directory: /root/.visdom
+INFO:tornado.access:200 POST /env/main (127.0.0.1) 2.54ms
+INFO:tornado.access:101 GET /vis_socket (127.0.0.1) 0.49ms
+INFO:root:Opened visdom socket from ip: 127.0.0.1
+INFO:tornado.access:200 POST /events (127.0.0.1) 0.58ms
